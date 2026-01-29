@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m Bharath K R<br><br>- 🔭 I’m currently working on Python full-stack web applications with a strong focus on React-based, modern frontend development.<br>- 🌱 I’m currently learning advanced React patterns, scalable Python backends, and cloud deployment.<br>- 🤖 Exploring Generative AI and Agentic AI concepts, including AI-powered automation, intelligent workflows, and real-world integrations.<br>- 💬 Ask me about React.js, frontend architecture, JavaScript, Python, SQL, and building clean, responsive user interfaces.<br>- ⚡ Fun fact: I enjoy refining UI/UX details until the product feels smooth, intuitive, and production-ready.<br><br>
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__bharath_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharathkr6) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bharath KR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharathkr080@outlook.com) 
